@@ -1,0 +1,22 @@
+{
+  "name": "proj11_fruits",
+  "version": "1.0.0",
+  "description": "this is a project on mongoose /mongoDB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ANUSHKALA/Proj11_Fruits.git"
+  },
+  "author": "anushka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ANUSHKALA/Proj11_Fruits/issues"
+  },
+  "homepage": "https://github.com/ANUSHKALA/Proj11_Fruits#readme",
+  "dependencies": {
+    "mongodb": "4.4"
+  }
+}
